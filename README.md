@@ -6,7 +6,7 @@
 
 ----
 
-Kubernetes is an open source system for managing [containerized applications]
+Kubernetes an open source system for managing [containerized applications]
 across multiple hosts, providing basic mechanisms for deployment, maintenance,
 and scaling of applications.
 
